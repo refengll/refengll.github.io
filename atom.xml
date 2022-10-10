@@ -6,7 +6,7 @@
   <link href="https://refengll.github.io/atom.xml" rel="self"/>
   
   <link href="https://refengll.github.io/"/>
-  <updated>2022-10-08T10:59:56.997Z</updated>
+  <updated>2022-10-10T09:34:01.202Z</updated>
   <id>https://refengll.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随想</title>
+    <link href="https://refengll.github.io/posts/41acf799.html"/>
+    <id>https://refengll.github.io/posts/41acf799.html</id>
+    <published>2022-10-10T09:15:13.000Z</published>
+    <updated>2022-10-10T09:34:01.202Z</updated>
+    
+    <content type="html"><![CDATA[<p>随想<br>Hello,World!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;随想&lt;br&gt;Hello,World!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
